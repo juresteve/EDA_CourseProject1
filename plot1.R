@@ -1,4 +1,4 @@
-## Download the data folder and uinzip it
+## Download the data folder and unzip it
 
 fileURL = "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"
 
