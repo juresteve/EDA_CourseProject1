@@ -17,7 +17,7 @@ data$Global_active_power = as.numeric(data$Global_active_power)
 data$Date = as.Date(data$Date,format = "%d/%m/%Y")
 time = as.POSIXct(paste(data$Date, data$Time, sep=" "))
 
-## Create the first plot and write it in a png file
+## Create the second plot and write it in a png file
 
 if (!file.exists("plot2.png")) {
         png("plot2.png")
